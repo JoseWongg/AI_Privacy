@@ -1,0 +1,13 @@
+tensorflow
+gensim
+nltk
+scikit-learn
+pandas
+numpy
+matplotlib
+emoji
+tensorflow-federated
+nest-asyncio
+tensorflow-privacy
+packaging
+jupyter
