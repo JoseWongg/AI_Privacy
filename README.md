@@ -31,7 +31,7 @@ Python • TensorFlow • TensorFlow Federated • TensorFlow Privacy • scikit
 - Model: `Embedding → LSTM → LSTM → Dense(sigmoid)`
   - Accuracy: **75.69%**
   - F1-score: **0.86**
-  - Privacy budget: **ε ≈ 75.67** at **δ = 1e-5**
+  - Privacy budget: **ε ≈ 75.67**
 
 
 ## How to Run  
@@ -40,4 +40,5 @@ Python • TensorFlow • TensorFlow Federated • TensorFlow Privacy • scikit
    ```bash
    git clone https://github.com/JoseWongg/AI_Privacy.git
    cd AI_Privacy
+
 
