@@ -42,3 +42,12 @@ Python • TensorFlow • TensorFlow Federated • TensorFlow Privacy • scikit
    cd AI_Privacy
 
 
+## Authorship & Contact
+Developed by **Jose Wong**  
+j.wong@mail.com  
+https://www.linkedin.com/in/jose-wongg  
+https://github.com/JoseWongg  
+
+## License
+MIT — see the [LICENSE](LICENSE) file for details.
+
